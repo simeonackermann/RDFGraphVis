@@ -1,3 +1,4 @@
+**This repository is deprecated. See https://github.com/simeonackermann/VocTo for further development.**
 
 # RDFGraphVis
 
